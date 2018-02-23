@@ -9,6 +9,8 @@
 			maven { url 'https://jitpack.io' }
 		}
 	}
+	
+	
 dependencies {
 	        compile 'com.github.yanzhenxiang:appUtils:1.0.0'
 	}
